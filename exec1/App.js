@@ -22,7 +22,7 @@ export default function App() {
       {/* <Flex3/> */}
       {/* <Flex4/> */}
       {/* <Flex5/> */}
-      {/* <Flex6/> */}
+      <Flex6/>
    
       <StatusBar style="auto" />
     </View>
